@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://edreranar.github.io/sitemap.html.gz
+Sitemap: https://edreranar.github.io/app/sitemap.html.gz
+Sitemap: https://edreranar.github.io/assets/sitemap.html.gz
+Sitemap: https://edreranar.github.io/css/sitemap.html.gz
+Sitemap: https://edreranar.github.io/includes/sitemap.html.gz
+Sitemap: https://edreranar.github.io/item/sitemap.html.gz
+Sitemap: https://edreranar.github.io/src/sitemap.html.gz
